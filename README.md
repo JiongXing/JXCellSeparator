@@ -1,5 +1,5 @@
 # JXCellSeparator
-嗯。。。封装了一下cell的系统分割线调用方法，简单易用。
+### 嗯。。。封装了一下cell的系统分割线调用方法，简单易用。
 ![JXCellSeparator](https://github.com/JiongXing/JXCellSeparator/raw/master/screenshots/JXSeparator.gif)
 
 - 使用示例
